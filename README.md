@@ -15,8 +15,8 @@ Chat Bot 3
 The third chat bot is specifically designed for real estate investment and negotiation. Users can ask for advice, insights, or answers to real estate-related questions and the bot utilizes OpenAI's GPT-3 API to provide accurate and relevant information.
 
 Dependencies:
-- OpenAI (pip install openai)
-- Gradio (pip install gradio)
+- OpenAI 
+- Gradio
 
 Usage:
 - Clone the repository and install dependencies
